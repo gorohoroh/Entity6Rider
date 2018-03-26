@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entity6FromScratch", "Entity6FromScratch\Entity6FromScratch.csproj", "{E6C77D75-C378-4B86-858F-1A608092CFEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6C77D75-C378-4B86-858F-1A608092CFEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6C77D75-C378-4B86-858F-1A608092CFEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6C77D75-C378-4B86-858F-1A608092CFEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6C77D75-C378-4B86-858F-1A608092CFEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
