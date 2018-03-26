@@ -1,4 +1,6 @@
-﻿namespace Entity6FromScratch
+﻿using System.Data.Entity;
+
+namespace Entity6FromScratch
 {
     public class ProductContext : DbContext
     {
