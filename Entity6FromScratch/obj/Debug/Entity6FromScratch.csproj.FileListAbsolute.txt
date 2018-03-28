@@ -10,3 +10,5 @@ C:\Users\Jura.Gorohovsky\RiderProjects\Entity6Rider\Entity6FromScratch\obj\Debug
 C:\Users\Jura.Gorohovsky\RiderProjects\Entity6Rider\Entity6FromScratch\obj\Debug\Entity6FromScratch.csproj.CopyComplete
 C:\Users\Jura.Gorohovsky\RiderProjects\Entity6Rider\Entity6FromScratch\obj\Debug\Entity6FromScratch.dll
 C:\Users\Jura.Gorohovsky\RiderProjects\Entity6Rider\Entity6FromScratch\obj\Debug\Entity6FromScratch.pdb
+C:\Users\Jura.Gorohovsky\RiderProjects\Entity6Rider\Entity6FromScratch\obj\Debug\Entity6FromScratch.Migrations.Initial.resources
+C:\Users\Jura.Gorohovsky\RiderProjects\Entity6Rider\Entity6FromScratch\obj\Debug\Entity6FromScratch.csproj.GenerateResource.cache
