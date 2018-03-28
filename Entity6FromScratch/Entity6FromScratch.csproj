@@ -46,6 +46,7 @@
   <ItemGroup>
     <Compile Include="Class1.cs" />
     <Compile Include="DomainClasses.cs" />
+    <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="ProductContext.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

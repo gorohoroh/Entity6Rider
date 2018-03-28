@@ -1,0 +1,12 @@
+C:\Users\Jura.Gorohovsky\RiderProjects\Entity6Rider\Entity6FromScratch\bin\Debug\Entity6FromScratch.dll.config
+C:\Users\Jura.Gorohovsky\RiderProjects\Entity6Rider\Entity6FromScratch\bin\Debug\Entity6FromScratch.dll
+C:\Users\Jura.Gorohovsky\RiderProjects\Entity6Rider\Entity6FromScratch\bin\Debug\Entity6FromScratch.pdb
+C:\Users\Jura.Gorohovsky\RiderProjects\Entity6Rider\Entity6FromScratch\bin\Debug\EntityFramework.dll
+C:\Users\Jura.Gorohovsky\RiderProjects\Entity6Rider\Entity6FromScratch\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jura.Gorohovsky\RiderProjects\Entity6Rider\Entity6FromScratch\bin\Debug\EntityFramework.xml
+C:\Users\Jura.Gorohovsky\RiderProjects\Entity6Rider\Entity6FromScratch\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jura.Gorohovsky\RiderProjects\Entity6Rider\Entity6FromScratch\obj\Debug\Entity6FromScratch.csprojResolveAssemblyReference.cache
+C:\Users\Jura.Gorohovsky\RiderProjects\Entity6Rider\Entity6FromScratch\obj\Debug\Entity6FromScratch.csproj.CoreCompileInputs.cache
+C:\Users\Jura.Gorohovsky\RiderProjects\Entity6Rider\Entity6FromScratch\obj\Debug\Entity6FromScratch.csproj.CopyComplete
+C:\Users\Jura.Gorohovsky\RiderProjects\Entity6Rider\Entity6FromScratch\obj\Debug\Entity6FromScratch.dll
+C:\Users\Jura.Gorohovsky\RiderProjects\Entity6Rider\Entity6FromScratch\obj\Debug\Entity6FromScratch.pdb
