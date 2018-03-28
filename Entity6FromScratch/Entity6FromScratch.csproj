@@ -49,6 +49,10 @@
     <Compile Include="Migrations\201803281403536_Initial.Designer.cs">
       <DependentUpon>201803281403536_Initial.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201803281704325_IsCompanyPublic.cs" />
+    <Compile Include="Migrations\201803281704325_IsCompanyPublic.Designer.cs">
+      <DependentUpon>201803281704325_IsCompanyPublic.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="ProductContext.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -60,6 +64,9 @@
   <ItemGroup>
     <EmbeddedResource Include="Migrations\201803281403536_Initial.resx">
       <DependentUpon>201803281403536_Initial.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201803281704325_IsCompanyPublic.resx">
+      <DependentUpon>201803281704325_IsCompanyPublic.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
