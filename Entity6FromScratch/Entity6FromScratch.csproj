@@ -44,7 +44,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
     <Compile Include="DomainClasses.cs" />
     <Compile Include="Migrations\201803281403536_Initial.cs" />
     <Compile Include="Migrations\201803281403536_Initial.Designer.cs">
