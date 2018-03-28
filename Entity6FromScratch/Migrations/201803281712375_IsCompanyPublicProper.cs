@@ -3,16 +3,16 @@
     using System;
     using System.Data.Entity.Migrations;
     
-    public partial class IsCompanyPublic : DbMigration
+    public partial class IsCompanyPublicProper : DbMigration
     {
         public override void Up()
         {
-            AddColumn("dbo.Vendors", "IdPublicCompany", c => c.Boolean(nullable: false));
+            AddColumn("dbo.Vendors", "IsPublicCompany", c => c.Boolean(nullable: false));
         }
         
         public override void Down()
         {
-            DropColumn("dbo.Vendors", "IdPublicCompany");
+            DropColumn("dbo.Vendors", "IsPublicCompany");
         }
     }
 }

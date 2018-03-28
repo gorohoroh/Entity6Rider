@@ -7,13 +7,13 @@ namespace Entity6FromScratch.Migrations
     using System.Resources;
     
     [GeneratedCode("EntityFramework.Migrations", "6.2.0-61023")]
-    public sealed partial class IsCompanyPublic : IMigrationMetadata
+    public sealed partial class IsCompanyPublicProper : IMigrationMetadata
     {
-        private readonly ResourceManager Resources = new ResourceManager(typeof(IsCompanyPublic));
+        private readonly ResourceManager Resources = new ResourceManager(typeof(IsCompanyPublicProper));
         
         string IMigrationMetadata.Id
         {
-            get { return "201803281704325_IsCompanyPublic"; }
+            get { return "201803281712375_IsCompanyPublicProper"; }
         }
         
         string IMigrationMetadata.Source

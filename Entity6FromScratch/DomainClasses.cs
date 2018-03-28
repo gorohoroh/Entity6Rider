@@ -17,7 +17,7 @@ namespace Entity6FromScratch
         public int Id { get; set; }
         public string Name { get; set; }
         public DateTime YearEstablished { get; set; }
-        public bool IdPublicCompany { get; set; }
+        public bool IsPublicCompany { get; set; }
     }
 
     public class Family
